@@ -3,12 +3,13 @@
 
 1. **Clone the repository:**
    - Clone your GitHub repository locally using `git clone` and navigate into it.
+   -  Clone from this url https://github.com/mohitbhardwaji/pollingRepo.git
 
 2. **Install Dependencies:**
    - Run `npm install` to install all necessary dependencies.
 
 3. **Set Up MongoDB:**
-   - Ensure MongoDB is installed and running locally or configure the connection URI in `.env.local`.
+   - Ensure MongoDB is installed and running locally or configure the connection URI in `.env`.
 
 4. **Start the Application:**
    - Run `npm run dev` to start the Next.js development server.

@@ -20,5 +20,7 @@
 6. **View the Application:**
    - Open `http://localhost:3000` in your browser to see the real-time stock data web page.
 
+7. working image 
+![Application Screenshot](/image.png)
 
 This README file provides clear steps for installation, setup, and usage of your application, making it easier for others (and yourself) to get started with the project.

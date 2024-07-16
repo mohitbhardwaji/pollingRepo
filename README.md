@@ -4,6 +4,7 @@
 1. **Clone the repository:**
    - Clone your GitHub repository locally using `git clone` and navigate into it.
    -  Clone from this url https://github.com/mohitbhardwaji/pollingRepo.git
+   -  change the directory to polling_data use `cd polling_data` then move forward to next steps.
 
 2. **Install Dependencies:**
    - Run `npm install` to install all necessary dependencies.

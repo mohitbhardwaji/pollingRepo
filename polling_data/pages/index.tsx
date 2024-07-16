@@ -29,7 +29,12 @@ const Home = () => {
 
   return (
     <div style={{ padding: '20px' }}>
-      <h1 style={{ textAlign: 'center' }}>Real-Time Coins Data</h1>
+      <div style={{ float: 'right', fontSize: '20px',fontWeight:700, textAlign: 'right', marginRight: '20px', marginBottom: '10px' ,color:'#A79277'}}>
+        <p>Created by: Mohit Bhardwaj</p>
+        <p>Email: <a href="mailto:mohitbha098@gmail.com">mohitbha098@gmail.com</a></p>
+        <p>Contact: <a href="tel:+917400620695">7400620695</a></p>
+      </div>
+      <h1 style={{ textAlign: 'center',color:'#A79277' }}>Real-Time Coins Data</h1>
       <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px', borderRadius:'10px',}}>
         <button style={{ padding: '10px', fontSize: '16px',borderRadius:'20px',border:"none",backgroundColor:"#A79277" }}>
           Change Stock
